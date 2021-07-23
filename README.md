@@ -1,4 +1,6 @@
-### Hi there 👋
+### Eric Schorling 👋
+
+### Eric Schorling is a Full Stack Web Developer who specializes in React and PERN stack single page applications. 
 
 <!--
 **ericschorling/ericschorling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
